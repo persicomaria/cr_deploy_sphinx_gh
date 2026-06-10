@@ -10,16 +10,8 @@ These are github Pages showing how to derive functional profiles as versatile em
 
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :maxdepth: 1
+   :caption: Project:
 
-   01_install/index
-   02_quickstart/index
-   03_data_augmented_data_sqlitedb/index
-   04_preprocessing_showcase/index
-   05_dictionary_learning/index
-   06_deconvolution/index
-   07_network/index
-   08_simulations/index
-   09_math/index
-
+   src/api
+   

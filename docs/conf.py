@@ -26,3 +26,13 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 
 html_theme = 'sphinx_rtd_theme'
 html_static_path = ['_static']
+
+
+exclude_patterns = [
+    "_build",
+    "Thumbs.db",
+    ".DS_Store",
+    "README.md",        # repo-facing, not a doc page
+    "src/README.md",    # same
+    "**/README.md",     # catch any other READMEs in chapter folders
+]

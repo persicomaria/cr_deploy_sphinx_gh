@@ -7,9 +7,9 @@ How to install the package and its dependencies.
    :maxdepth: 2
    :caption: Installation
 
-   requirements
-      conda_environment
-      pip_install
+   .. requirements
+   .. conda_environment
+   .. pip_install
 
 .. note::
    This chapter is under active development.
